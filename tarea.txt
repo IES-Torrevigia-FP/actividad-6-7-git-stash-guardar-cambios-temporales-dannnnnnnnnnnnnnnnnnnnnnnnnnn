@@ -1,1 +1,3 @@
 ﻿Tarea principal: implementar login.
+Paso 1: crear formulario de login.
+Paso 2: validar credenciales.
