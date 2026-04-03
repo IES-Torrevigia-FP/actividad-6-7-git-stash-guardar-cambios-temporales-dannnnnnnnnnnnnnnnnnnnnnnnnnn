@@ -1,0 +1,2 @@
+﻿Comandos usados: git stash -u -m 'test', seguido de git stash pop. 
+Diferencia: Un git stash normal ignora tus archivos reciÃ©n creados que aÃºn no tenÃ­an 'git add'. PoniÃ©ndole el -u te incluye hasta todo lo que es nuevo y suelto en el stash.

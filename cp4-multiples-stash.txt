@@ -1,0 +1,8 @@
+﻿List de stashes:
+stash@{0}: On main: WIP login paso 4
+stash@{1}: On main: WIP login paso 3
+
+Comando para aplicar este especÃ­fico:
+git stash apply stash@{1}
+
+Los mensajes descriptivos son clave porque sin el -m todos los stashes se llaman igual (WIP on main...) y serÃ­a muy difÃ­cil distinguirlos despuÃ©s.

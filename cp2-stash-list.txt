@@ -1,0 +1,12 @@
+﻿List:
+stash@{0}: On main: WIP login pasos 1 y 2
+
+Log:
+e29a225 Aplica hotfix urgente
+fc8cfbd Define tarea principal de login
+473ada1 On main: WIP login pasos 1 y 2
+660b172 index on main: fc8cfbd Define tarea principal de login
+dd7f7c5 add deadline
+e86c405 Initial commit
+
+Explicacion: Mis cambios a medias fueron guardados en una caja fuerte (stash) temporal para dejarme trabajar en el bug, por lo que desaparecieron a la vista pero siguen seguros en Git.

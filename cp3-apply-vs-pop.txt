@@ -1,0 +1,6 @@
+﻿Antes:
+stash@{0}: On main: WIP login pasos 1 y 2
+
+Despues del pop:
+
+Diferencia: 'apply' te devuelve el cÃ³digo pero DEJA la copia en el stash (por si quieres aplicarla de nuevo en otras ramas). 'pop' te devuelve el cÃ³digo y BORRA el stash para no dejar basura.
